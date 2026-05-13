@@ -7,9 +7,9 @@
 ---
 
 ### 💫 About Me
-- 🎓 **Education**: Data Science & Engineering Student based in **Hong Kong**.
-- 🤖 **Interests**: LLMs (Ollama), Automation, and System-level Scripting.
-- 🛠️ **Current Project**: Developing an intelligent QQ-Robot powered by local LLMs.
+-  **Education**: Data Science & Engineering Student based in **Hong Kong**.
+-  **Interests**: LLMs (Ollama), Automation, and System-level Scripting.
+-  **Current Project**: Developing an intelligent QQ-Robot powered by local LLMs.
 
 ---
 
