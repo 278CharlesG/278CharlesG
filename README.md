@@ -29,15 +29,7 @@
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/YOUR_USERNAME/yunjiege2-debug/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 > *"Turning complex data into actionable intelligence."*
-
 
 
 
