@@ -21,9 +21,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunjiege2-debug&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=300&section=header&text=Charles%20G&fontSize=90&animation=fadeIn" width="100%" />
-</p>
+
 
 
 
