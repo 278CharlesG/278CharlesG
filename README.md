@@ -12,13 +12,13 @@
 -  **Current Project**: Developing an intelligent QQ-Robot powered by local LLMs.
 
 ---
-### 📊 My GitHub Stats
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunjiege2-debug&show_icons=true&theme=transparent&count_private=true" alt="Stats" />
-  
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunjiege2-debug&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunjiege2-debug&layout=compact&theme=transparent" alt="Languages" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunjiege2-debug&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
