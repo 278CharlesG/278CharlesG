@@ -13,9 +13,6 @@
 
 ---
 ###  GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunjiege2-debug&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunjiege2-debug&theme=radical&hide_border=true" alt="GitHub Streak" />
