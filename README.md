@@ -6,13 +6,13 @@
 
 ---
 
-### 💫 About Me
+###  About Me
 -  **Education**: Data Science & Engineering Student based in **Hong Kong**.
 -  **Interests**: LLMs (Ollama), Automation, and System-level Scripting.
 -  **Current Project**: Developing an intelligent QQ-Robot powered by local LLMs.
 
 ---
-### 📊 GitHub Activity
+###  GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunjiege2-debug&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
