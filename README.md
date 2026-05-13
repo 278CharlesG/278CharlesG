@@ -24,14 +24,14 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&rank_icon=github" alt="Charles's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yunjiege2-debug&show_icons=true&theme=radical&rank_icon=github" alt="Charles's GitHub stats" />
 </p>
 
 ---
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/YOUR_USERNAME/yunjiege2-debug/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
