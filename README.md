@@ -1,4 +1,4 @@
-# Hi there, I'm Charles 👋
+# Hi there👋
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Charles%20G&fontSize=90&animation=fadeIn" />
@@ -12,12 +12,7 @@
 - 🛠️ **Current Project**: Developing an intelligent QQ-Robot powered by local LLMs.
 
 ---
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunjiege2-debug&show_icons=true&theme=radical&count_private=true" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunjiege2-debug&layout=compact&theme=radical" alt="Languages" />
-</p>
+
 ---
 
 > *"Turning complex data into actionable intelligence."*
