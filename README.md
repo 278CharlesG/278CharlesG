@@ -13,9 +13,7 @@
 
 ---
 
----
 
-> *"Turning complex data into actionable intelligence."*
 
 
 
