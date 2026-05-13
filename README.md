@@ -12,21 +12,12 @@
 - 🛠️ **Current Project**: Developing an intelligent QQ-Robot powered by local LLMs.
 
 ---
-
-### 🛠️ Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mongodb,mysql,aws,docker,github,vscode&theme=dark" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunjiege2-debug&show_icons=true&theme=radical&rank_icon=github" alt="Charles's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yunjiege2-debug&show_icons=true&theme=radical&count_private=true" alt="Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunjiege2-debug&layout=compact&theme=radical" alt="Languages" />
 </p>
-
 ---
 
 > *"Turning complex data into actionable intelligence."*
