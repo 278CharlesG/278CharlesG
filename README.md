@@ -8,7 +8,7 @@
 
 ###  About Me
 -  **Education**: ARTIFICIAL INTELLIGENCE & INFORMATION ENGINEERING, Year2 Student based in **Hong Kong**.
--  **Interests**: LLMs, Automation and System-level Scripting.
+-  **Interests**: LLMs, Automation, Logic simulation and System-level Scripting.
 
 ---
 ###  GitHub Activity
