@@ -1,4 +1,4 @@
-# Hi there👋
+# Hi there
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=300&section=header&text=Charles%20G&fontSize=90&animation=fadeIn" width="100%" />
