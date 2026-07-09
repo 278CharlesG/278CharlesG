@@ -1,4 +1,4 @@
-# Hi there
+# Hi
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=300&section=header&text=低调的黑客有多恐怖&fontSize=90&animation=fadeIn" width="100%" />
