@@ -5,10 +5,10 @@
 
 ---
 
-###  About Me
+<!--###  About Me
 -  **Education**: ARTIFICIAL INTELLIGENCE & INFORMATION ENGINEERING, Year 3 Student based inHong Kong.
 -  **Interests**: Automation, Logic simulation and System Scripting.
-
+-
 ---
 ###  GitHub Activity
 
